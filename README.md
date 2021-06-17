@@ -1,4 +1,4 @@
-Trading, historical data analysis and vizualization application based on InteractiveBrokers Trader Workstation Application Programming Interface (TWS API v9.72)
+Historical financial data analysis, vizualization and trading application via InteractiveBrokers Trader Workstation Application Programming Interface (TWS API v9.72)
 
 Key Features:
 - Level1 and Level2 data streaming
